@@ -6,6 +6,14 @@
  * License: Creative Commons Attribution 3.0 License
  * Website: http://themes.3rdwavemedia.com/
 */
+
+/*
+ * Template Name: Orbit - Responsive Resume/CV Template for Developers
+ * Version: 1.1
+ * Author: Alan Stocco
+ * License: Creative Commons Attribution 3.0 License
+ * Note: small personal changes
+*/
 /* styles-5.css */
 /* ======= Base ======= */
 body {
@@ -52,6 +60,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
+  vertical-align: middle; /*AS add 17/12/21*/
   background: #FDA246;
   position: absolute;
   right: 0;
